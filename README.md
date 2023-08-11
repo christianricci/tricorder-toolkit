@@ -58,9 +58,9 @@ How to start the API server.
 DEBUG=tricorder-api:* npm start
 ```
 
-# User Interface Installation (Not needed)
+# User Interface 
 
-## Create a project from Scratch 
+## Create a project from Scratch (optional)
 
 Follow steps from https://tauri.app/v1/guides/getting-started/setup/sveltekit
 
