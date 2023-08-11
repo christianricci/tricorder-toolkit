@@ -1,4 +1,4 @@
-# Welcome to the Tripcorder "Desktop Toolkit"
+# Welcome to the Tricorder "Desktop Toolkit"
 
 Called Tricorder in reference to the multi-purpose tool from the Star Trek TV series. This tool will help you perform tasks in your desktop much smarter.
 
